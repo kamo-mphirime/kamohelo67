@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @kamohelo67
-- 👀 I’m interested in full stack dev, data analytics and quantitative finance
-- 🌱 I’m currently enrolled in the IB diploma programme 
-- 📫 you can reach me via email at kmphirime67@gmail.com 
+- 👋 Hi, I’m Kamo (@kamohelo67) 
+- 🎓 Freshman at **Northwestern University** studying **Economics & Data Science**
+- 👀 Interested in quantitative finance,data analytics, and backend development
+- 🛠️ Working with Python, Pandas, and Scikit-Learn
+- 📫 Reach me at kamomphirime2030@u.northwestern.edu
 
-<!---
-kamohelo67/kamohelo67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
